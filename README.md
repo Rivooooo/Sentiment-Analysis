@@ -33,6 +33,3 @@ pip install -r sentiment_analysis_2024_presidential_campaign/requirements.txt
 
 ## Contributing
 Feel free to fork the repository and create pull requests to add more features or improvements.
-
-## License
-This repository is open-source and available under the [MIT License](LICENSE).
